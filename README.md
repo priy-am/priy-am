@@ -34,18 +34,15 @@ Hi there! 👋 I’m Priyam, a passionate **Web Developer** with over **2 years 
 ---
 
 ## 🌟 **Featured Projects**
-### [🌐 **Cultural Connect**](https://get-me-chai-ten.vercel.app/)  
-An interactive platform to explore and celebrate **India's diverse culture**. Users can:  
-- Chat with a multilingual **AI chatbot** built using **Botpress**.  
-- Explore regions via an interactive **Google Maps API** integration.  
-- Share their experiences in a **community-driven comment box**.  
-**Tech Stack**: Next.js, Tailwind CSS, Google Maps API, Botpress  
+### [🌐 **Get Me Chai**](https://get-me-chai-ten.vercel.app/)   
+- A Patreon Clone
+- User can pay the money thier creator
+- Total money he has received are mention  
+**Tech Stack**: Next.js, Tailwind CSS, Github Authentication, MongoDB 
 
-### **Seek Support Form** (Zarurat Care Foundation)  
-Developed a **multi-step support form** for an NGO. The form collects personal details, subscription preferences, and displays a **summary for verification before submission**.  
-**Tech Stack**: Svelte (with stores), Tailwind CSS  
 
-### [🖥️ **NGO Web Pages**](https://zarurat-care-foundation.github.io/)  
+
+### [🖥️ **NGO Web Pages**](https://staging-jc.vercel.app/)  
 Developed **About** and **Seek Support** pages, aligning with the NGO's mission and vision.  
 **Tech Stack**: React, Tailwind CSS  
 
