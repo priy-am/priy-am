@@ -1,4 +1,4 @@
-# 🌟 Priyam
+# 🌟 I am Priyam
 
 Hi there! 👋 I’m Priyam, a passionate **Web Developer** with over **2 years of experience in React** and expertise in building dynamic and user-centric web applications. My journey in tech revolves around crafting seamless interfaces, optimizing backend logic, and diving into exciting innovations like **blockchain** and **AI tools**.  
 
