@@ -1,20 +1,75 @@
-<h1 align="center">Hi 👋, I'm Priyam</h1>
-<h3 align="center">Full-Stack Developer | MERN Specialist | Exploring Blockchain & AI Integration</h3>
+# 🌟 Priyam
 
-- 👨‍💻 All of my projects are available at [https://codepriyam.netlify.app/](https://codepriyam.netlify.app/)
+Hi there! 👋 I’m Priyam, a passionate **Web Developer** with over **2 years of experience in React** and expertise in building dynamic and user-centric web applications. My journey in tech revolves around crafting seamless interfaces, optimizing backend logic, and diving into exciting innovations like **blockchain** and **AI tools**.  
 
-- 📫 How to reach me **priyam2101753@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/132IwPuIifFioNkvdxizKBfXtYm8Rmgqn/view?usp=drivesdk](https://drive.google.com/file/d/132IwPuIifFioNkvdxizKBfXtYm8Rmgqn/view?usp=drivesdk)
+## 🚀 **About Me**
+- 🧑‍💻 **MERN Stack Developer**: Skilled in building full-stack web applications with **MongoDB**, **Express**, **React**, and **Node.js**.  
+- 🎨 **UI/UX Enthusiast**: Focused on delivering **intuitive user experiences** and visually appealing designs using **Tailwind CSS**.  
+- 🛠️ **AI and Chatbot Developer**: Learning **Botpress** for interactive chatbot integration.  
+- 🧠 **Lifelong Learner**: Passionate about continuous learning, especially in **JAMStack**, **Linux**, and **TypeScript**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  LinkedIn:- https://www.linkedin.com/in/priy-am/
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🛠️ **Skills**
+### **Frontend Development**  
+- React.js, Svelte, Next.js (App Router)  
+- Tailwind CSS, Vanilla CSS  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priy-am&show_icons=true&locale=en&layout=compact" alt="priy-am" /></p>
+### **Backend Development**  
+- Node.js, Express  
+- REST APIs
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priy-am&" alt="priy-am" /></p>
+### **Database Management**  
+- MongoDB 
+
+### **DevOps and Deployment**  
+- GitHub Actions  
+- Hosting on Vercel 
+
+### **Other Tools**  
+- Fetch API, Botpress  
+
+---
+
+## 🌟 **Featured Projects**
+### [🌐 **Cultural Connect**](https://get-me-chai-ten.vercel.app/)  
+An interactive platform to explore and celebrate **India's diverse culture**. Users can:  
+- Chat with a multilingual **AI chatbot** built using **Botpress**.  
+- Explore regions via an interactive **Google Maps API** integration.  
+- Share their experiences in a **community-driven comment box**.  
+**Tech Stack**: Next.js, Tailwind CSS, Google Maps API, Botpress  
+
+### **Seek Support Form** (Zarurat Care Foundation)  
+Developed a **multi-step support form** for an NGO. The form collects personal details, subscription preferences, and displays a **summary for verification before submission**.  
+**Tech Stack**: Svelte (with stores), Tailwind CSS  
+
+### [🖥️ **NGO Web Pages**](https://zarurat-care-foundation.github.io/)  
+Developed **About** and **Seek Support** pages, aligning with the NGO's mission and vision.  
+**Tech Stack**: React, Tailwind CSS  
+
+---
+
+## 📈 **GitHub Stats**
+![Priyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priy-am&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=priy-am&show_icons=true&locale=en&layout=compact)
+
+---
+
+## 🌱 **What I'm Currently Working On**
+- Expanding knowledge in **TypeScript**.  
+- Building blockchain-powered web apps.  
+- Experimenting with **AI tools** to enhance web experiences.  
+
+---
+
+## 🤝 **Let's Connect**
+- 📫 **Email**: priyam2101753@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/priy-am/)  
+- 🖥️ [Portfolio](https://codepriyam.netlify.app/)  
+
+---
+
+> *“Code is not just a tool; it’s an art form. Let’s create something impactful together!”* 🎨💻
+
