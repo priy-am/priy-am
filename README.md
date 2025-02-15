@@ -49,7 +49,6 @@ Developed **About** and **Seek Support** pages, aligning with the NGO's mission 
 ---
 
 ## 📈 **GitHub Stats**
-![Priyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priy-am&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=priy-am&show_icons=true&locale=en&layout=compact)
 
 ---
