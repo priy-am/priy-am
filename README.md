@@ -1,71 +1,34 @@
-# 🌟 I am Priyam
+# Hi there! 👋 I'm Priyam
 
-Hi there! 👋 I’m Priyam, a passionate **Web Developer** with over **2 years of experience in React** and expertise in building dynamic and user-centric web applications. My journey in tech revolves around crafting seamless interfaces, optimizing backend logic, and diving into exciting innovations like **blockchain** and **AI tools**.  
+I'm a passionate **MERN Stack Developer** who enjoys building intuitive, scalable, and user-centric web apps. I'm always exploring new tools — especially in **AI** and **open-source** tech.
 
----
+### 🚀 Tech Stack
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, MySQL (with Prisma)
+- **Tools:** Git, GitHub, Postman, Vercel
 
-## 🚀 **About Me**
-- 🧑‍💻 **MERN Stack Developer**: Skilled in building full-stack web applications with **MongoDB**, **Express**, **React**, and **Node.js**.  
-- 🎨 **UI/UX Enthusiast**: Focused on delivering **intuitive user experiences** and visually appealing designs using **Tailwind CSS**.  
-- 🛠️ **AI and Chatbot Developer**: Learning **Botpress** for interactive chatbot integration.  
-- 🧠 **Lifelong Learner**: Passionate about continuous learning, especially in **JAMStack**, **Linux**, and **TypeScript**.
+### 🌱 Currently Learning
+- Blockchain Development
+- AI/ML Concepts
 
----
+### 📊 GitHub Stats
 
-## 🛠️ **Skills**
-### **Frontend Development**  
-- React.js, Svelte, Next.js (App Router)  
-- Tailwind CSS, Vanilla CSS  
+<p align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=priy-am&show_icons=true&theme=tokyonight" alt="Priyam's GitHub Stats" height="150" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priy-am&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
 
-### **Backend Development**  
-- Node.js, Express  
-- REST APIs
+<!-- Optional Contributions Graph -->
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priy-am&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p> -->
 
-### **Database Management**  
-- MongoDB 
-
-### **DevOps and Deployment**  
-- GitHub Actions  
-- Hosting on Vercel 
-
-### **Other Tools**  
-- Fetch API, Botpress  
+### 📫 Connect with Me
+- 🌐 [Portfolio](https://priyam-five.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/priy-am/)
+- 📧 [Email](mailto:priyam2101753@gmail.com)
 
 ---
 
-## 🌟 **Featured Projects**
-### [🌐 **Get Me Chai**](https://get-me-chai-ten.vercel.app/)   
-- A Patreon Clone
-- User can pay the money thier creator
-- Total money he has received are mention  
-**Tech Stack**: Next.js, Tailwind CSS, Github Authentication, MongoDB 
-
-
-
-### [🖥️ **NGO Web Pages**](https://staging-jc.vercel.app/)  
-Developed **About** and **Seek Support** pages, aligning with the NGO's mission and vision.  
-**Tech Stack**: React, Tailwind CSS  
-
----
-
-## 📈 **GitHub Stats**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=priy-am&show_icons=true&locale=en&layout=compact)
-
----
-
-## 🌱 **What I'm Currently Working On**
-- Expanding knowledge in **TypeScript**.  
-- Building blockchain-powered web apps.  
-- Experimenting with **AI tools** to enhance web experiences.  
-
----
-
-## 🤝 **Let's Connect**
-- 📫 **Email**: priyam2101753@gmail.com 
-- 💼 [LinkedIn](https://www.linkedin.com/in/priy-am/)  
-- 🖥️ [Portfolio](https://codepriyam.netlify.app/)  
-
----
-
-> *“Code is not just a tool; it’s an art form. Let’s create something impactful together!”* 🎨💻
-
+_Thanks for stopping by! Feel free to explore my repos and connect._ ✨
